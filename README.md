@@ -1,4 +1,8 @@
-<h1> <a href="https://ray-realms.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi, My name is Ray!&center=true&size=27"> </a> </h1>
+<h1>
+  <a href="https://ray-realms.com/"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi,_My_name_is_Ray!&center=true&size=27"/> 
+  </a> 
+</if you h1>
 
 <div>
   <a href="https://discord.gg/XPRNJQSJ">
